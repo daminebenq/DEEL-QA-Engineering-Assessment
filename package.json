@@ -1,0 +1,25 @@
+{
+  "name": "deel-qa-engineering-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "allure:generate": "npx allure generate ./allure-results --clean",
+    "allure:open": "npx allure open ./allure-report",
+    "test": "npx playwright test || :",
+    "posttest": "npm run allure:generate"
+  },
+  "keywords": [],
+  "author": "Mohamed Amine Ben Salah",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.18.1",
+    "allure-commandline": "^2.13.8",
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "expect-playwright": "^0.8.0",
+    "experimental-allure-playwright": "0.0.3",
+    "playwright": "^1.18.1",
+    "sha1": "^1.1.1"
+  }
+}

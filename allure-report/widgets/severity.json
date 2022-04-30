@@ -1,0 +1,11 @@
+[ {
+  "uid" : "60fef4896de604d",
+  "name" : "should verify search result with valid repository name",
+  "time" : {
+    "start" : 1651195082562,
+    "stop" : 1651195098258,
+    "duration" : 15696
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
