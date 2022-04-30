@@ -1,0 +1,21 @@
+[ {
+  "uid" : "d53f63187fa3ecf0",
+  "name" : "create Fixed Rate contract",
+  "time" : {
+    "start" : 1651347642644,
+    "stop" : 1651347642892,
+    "duration" : 248
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b0dd9b604e42d50",
+  "name" : "create Pay As You Go contract",
+  "time" : {
+    "start" : 1651347643407,
+    "stop" : 1651347643623,
+    "duration" : 216
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

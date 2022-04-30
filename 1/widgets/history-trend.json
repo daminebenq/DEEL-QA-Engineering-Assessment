@@ -1,0 +1,13 @@
+[ {
+  "buildOrder" : 1,
+  "reportUrl" : "https://daminebenq.github.io/DEEL-QA-Engineering-Assessment/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 2,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 2
+  }
+} ]

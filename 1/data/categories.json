@@ -1,0 +1,39 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "page.goto: url: expected string, got undefined",
+      "children" : [ {
+        "name" : "create Fixed Rate contract",
+        "uid" : "d53f63187fa3ecf0",
+        "parentUid" : "1fc2f5bffa473e030d6cb2c22078b7d1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1651347642644,
+          "stop" : 1651347642892,
+          "duration" : 248
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "create Pay As You Go contract",
+        "uid" : "4b0dd9b604e42d50",
+        "parentUid" : "1fc2f5bffa473e030d6cb2c22078b7d1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1651347643407,
+          "stop" : 1651347643623,
+          "duration" : 216
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1fc2f5bffa473e030d6cb2c22078b7d1"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}

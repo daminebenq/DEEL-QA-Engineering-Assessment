@@ -1,0 +1,44 @@
+{
+  " tests/all.test.ts DEEL - Create new contract create Fixed Rate contract" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d53f63187fa3ecf0",
+      "reportUrl" : "https://daminebenq.github.io/DEEL-QA-Engineering-Assessment/1//#testresult/d53f63187fa3ecf0",
+      "status" : "failed",
+      "statusDetails" : "page.goto: url: expected string, got undefined",
+      "time" : {
+        "start" : 1651347642644,
+        "stop" : 1651347642892,
+        "duration" : 248
+      }
+    } ]
+  },
+  " tests/all.test.ts DEEL - Create new contract create Pay As You Go contract" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4b0dd9b604e42d50",
+      "reportUrl" : "https://daminebenq.github.io/DEEL-QA-Engineering-Assessment/1//#testresult/4b0dd9b604e42d50",
+      "status" : "failed",
+      "statusDetails" : "page.goto: url: expected string, got undefined",
+      "time" : {
+        "start" : 1651347643407,
+        "stop" : 1651347643623,
+        "duration" : 216
+      }
+    } ]
+  }
+}

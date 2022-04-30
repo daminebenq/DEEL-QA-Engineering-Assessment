@@ -1,0 +1,39 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "tests/all.test.ts",
+    "children" : [ {
+      "name" : "DEEL - Create new contract",
+      "children" : [ {
+        "name" : "create Fixed Rate contract",
+        "uid" : "d53f63187fa3ecf0",
+        "parentUid" : "536585b632d57fd6a1f4e71f75ed2c9c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1651347642644,
+          "stop" : 1651347642892,
+          "duration" : 248
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "create Pay As You Go contract",
+        "uid" : "4b0dd9b604e42d50",
+        "parentUid" : "536585b632d57fd6a1f4e71f75ed2c9c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1651347643407,
+          "stop" : 1651347643623,
+          "duration" : 216
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "536585b632d57fd6a1f4e71f75ed2c9c"
+    } ],
+    "uid" : "86df79ac958d7fbcba2721206b029315"
+  } ],
+  "name" : "suites"
+}
