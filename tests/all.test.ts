@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test';
 import FixedRate from './fixed-rate/fixedRate';
 import PayAsYouGo from './pay-as-you-go/payAsYouGo';
 import e from '../src/core/elements';
-import v from '../src/core/variables'
+import v from '../src/core/variables';
 
 test.describe.configure({ mode: 'parallel' });
 

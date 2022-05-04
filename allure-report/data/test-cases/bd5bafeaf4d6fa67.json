@@ -1,0 +1,42 @@
+{
+  "uid" : "bd5bafeaf4d6fa67",
+  "name" : "create Pay As You Go contract",
+  "fullName" : "create Pay As You Go contract",
+  "historyId" : " tests\\all.test.ts DEEL - Create new contract create Pay As You Go contract",
+  "time" : {
+    "start" : 1651686943351,
+    "stop" : 1651686973336,
+    "duration" : 29985
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "suite",
+    "value" : "tests\\all.test.ts"
+  }, {
+    "name" : "subSuite",
+    "value" : "DEEL - Create new contract"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bd5bafeaf4d6fa67.json",
+  "parameterValues" : [ ]
+}

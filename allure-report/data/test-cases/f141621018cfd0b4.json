@@ -1,0 +1,44 @@
+{
+  "uid" : "f141621018cfd0b4",
+  "name" : "create Fixed Rate contract",
+  "fullName" : "create Fixed Rate contract",
+  "historyId" : " tests\\all.test.ts DEEL - Create new contract create Fixed Rate contract",
+  "time" : {
+    "start" : 1651703973341,
+    "stop" : 1651703975688,
+    "duration" : 2347
+  },
+  "status" : "failed",
+  "statusMessage" : "page.goto: url: expected string, got undefined",
+  "statusTrace" : "page.goto: url: expected string, got undefined\n    at FixedRate.init (C:\\Users\\damin\\Desktop\\DEEL\\tests\\fixed-rate\\fixedRate.js:20:25)\n    at C:\\Users\\damin\\Desktop\\DEEL\\tests\\all.test.ts:12:5\n    at C:\\Users\\damin\\Desktop\\DEEL\\node_modules\\@playwright\\test\\lib\\workerRunner.js:385:9\n    at TestInfoImpl._runFn (C:\\Users\\damin\\Desktop\\DEEL\\node_modules\\@playwright\\test\\lib\\testInfo.js:176:7)\n    at C:\\Users\\damin\\Desktop\\DEEL\\node_modules\\@playwright\\test\\lib\\workerRunner.js:341:26",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "suite",
+    "value" : "tests\\all.test.ts"
+  }, {
+    "name" : "subSuite",
+    "value" : "DEEL - Create new contract"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f141621018cfd0b4.json",
+  "parameterValues" : [ ]
+}

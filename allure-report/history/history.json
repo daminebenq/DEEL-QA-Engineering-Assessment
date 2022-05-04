@@ -1,5 +1,5 @@
 {
-  " tests\\github-search.test.ts GitHub - Search Result should verify search result with valid repository name" : {
+  " tests\\all.test.ts DEEL - Create new contract create Fixed Rate contract" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -9,12 +9,31 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "60fef4896de604d",
+      "uid" : "394b12b0e05335b5",
       "status" : "passed",
       "time" : {
-        "start" : 1651195082562,
-        "stop" : 1651195098258,
-        "duration" : 15696
+        "start" : 1651704545393,
+        "stop" : 1651704576765,
+        "duration" : 31372
+      }
+    } ]
+  },
+  " tests\\all.test.ts DEEL - Create new contract create Pay As You Go contract" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e2f7af860c93688",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651704576769,
+        "stop" : 1651704608406,
+        "duration" : 31637
       }
     } ]
   }

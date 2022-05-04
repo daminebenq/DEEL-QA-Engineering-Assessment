@@ -1,2 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Thu Apr 28 22:18:02 BRT 2022","Thu Apr 28 22:18:18 BRT 2022","15696","","tests\github-search.test.ts","GitHub - Search Result","","","should verify search result with valid repository name",""
+"passed","Wed May 04 19:49:05 BRT 2022","Wed May 04 19:49:36 BRT 2022","31372","","tests\all.test.ts","DEEL - Create new contract","","","create Fixed Rate contract",""
+"passed","Wed May 04 19:49:36 BRT 2022","Wed May 04 19:50:08 BRT 2022","31637","","tests\all.test.ts","DEEL - Create new contract","","","create Pay As You Go contract",""

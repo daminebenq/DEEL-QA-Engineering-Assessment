@@ -2,25 +2,38 @@
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
   "name" : "suites",
   "children" : [ {
-    "name" : "tests\\github-search.test.ts",
+    "name" : "tests\\all.test.ts",
     "children" : [ {
-      "name" : "GitHub - Search Result",
+      "name" : "DEEL - Create new contract",
       "children" : [ {
-        "name" : "should verify search result with valid repository name",
-        "uid" : "60fef4896de604d",
-        "parentUid" : "a7a6403a2aee09e1b79de1d3d7dca575",
+        "name" : "create Fixed Rate contract",
+        "uid" : "394b12b0e05335b5",
+        "parentUid" : "a409c296876c191e76fbb2ffe5b40a4b",
         "status" : "passed",
         "time" : {
-          "start" : 1651195082562,
-          "stop" : 1651195098258,
-          "duration" : 15696
+          "start" : 1651704545393,
+          "stop" : 1651704576765,
+          "duration" : 31372
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "create Pay As You Go contract",
+        "uid" : "5e2f7af860c93688",
+        "parentUid" : "a409c296876c191e76fbb2ffe5b40a4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651704576769,
+          "stop" : 1651704608406,
+          "duration" : 31637
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "a7a6403a2aee09e1b79de1d3d7dca575"
+      "uid" : "a409c296876c191e76fbb2ffe5b40a4b"
     } ],
-    "uid" : "38f4ea861df65756ecb11551165367c6"
+    "uid" : "ca122eb09bd54718ccdab87bc59a7cce"
   } ]
 }

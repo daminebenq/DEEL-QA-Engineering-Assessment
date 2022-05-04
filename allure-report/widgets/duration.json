@@ -1,10 +1,20 @@
 [ {
-  "uid" : "60fef4896de604d",
-  "name" : "should verify search result with valid repository name",
+  "uid" : "394b12b0e05335b5",
+  "name" : "create Fixed Rate contract",
   "time" : {
-    "start" : 1651195082562,
-    "stop" : 1651195098258,
-    "duration" : 15696
+    "start" : 1651704545393,
+    "stop" : 1651704576765,
+    "duration" : 31372
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e2f7af860c93688",
+  "name" : "create Pay As You Go contract",
+  "time" : {
+    "start" : 1651704576769,
+    "stop" : 1651704608406,
+    "duration" : 31637
   },
   "status" : "passed",
   "severity" : "normal"

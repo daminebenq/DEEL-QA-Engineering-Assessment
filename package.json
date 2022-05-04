@@ -6,8 +6,7 @@
   "scripts": {
     "allure:generate": "npx allure generate ./allure-results --clean",
     "allure:open": "npx allure open ./allure-report",
-    "test": "npx playwright test || :",
-    "posttest": "npm run allure:generate"
+    "test": "npx playwright test || :"
   },
   "keywords": [],
   "author": "Mohamed Amine Ben Salah",
