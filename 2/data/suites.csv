@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 04 22:51:33 GMT 2022","Wed May 04 22:52:02 GMT 2022","29544","","tests\all.test.ts","DEEL - Create new contract","","","create Fixed Rate contract",""
+"passed","Wed May 04 22:51:33 GMT 2022","Wed May 04 22:52:03 GMT 2022","29885","","tests\all.test.ts","DEEL - Create new contract","","","create Pay As You Go contract",""
+"failed","Wed May 04 22:55:06 GMT 2022","Wed May 04 22:55:07 GMT 2022","318","","tests/all.test.ts","DEEL - Create new contract","","","create Fixed Rate contract",""
+"failed","Wed May 04 22:55:07 GMT 2022","Wed May 04 22:55:07 GMT 2022","217","","tests/all.test.ts","DEEL - Create new contract","","","create Pay As You Go contract",""

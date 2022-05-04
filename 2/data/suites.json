@@ -1,0 +1,73 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "tests\\all.test.ts",
+    "children" : [ {
+      "name" : "DEEL - Create new contract",
+      "children" : [ {
+        "name" : "create Fixed Rate contract",
+        "uid" : "d2b4f5195cbf01fb",
+        "parentUid" : "a409c296876c191e76fbb2ffe5b40a4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651704693299,
+          "stop" : 1651704722843,
+          "duration" : 29544
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "create Pay As You Go contract",
+        "uid" : "1289a124d00e4923",
+        "parentUid" : "a409c296876c191e76fbb2ffe5b40a4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651704693302,
+          "stop" : 1651704723187,
+          "duration" : 29885
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a409c296876c191e76fbb2ffe5b40a4b"
+    } ],
+    "uid" : "ca122eb09bd54718ccdab87bc59a7cce"
+  }, {
+    "name" : "tests/all.test.ts",
+    "children" : [ {
+      "name" : "DEEL - Create new contract",
+      "children" : [ {
+        "name" : "create Fixed Rate contract",
+        "uid" : "3eca1ad115272571",
+        "parentUid" : "536585b632d57fd6a1f4e71f75ed2c9c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1651704906949,
+          "stop" : 1651704907267,
+          "duration" : 318
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "create Pay As You Go contract",
+        "uid" : "86332ab34402e710",
+        "parentUid" : "536585b632d57fd6a1f4e71f75ed2c9c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1651704907777,
+          "stop" : 1651704907994,
+          "duration" : 217
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "536585b632d57fd6a1f4e71f75ed2c9c"
+    } ],
+    "uid" : "86df79ac958d7fbcba2721206b029315"
+  } ],
+  "name" : "suites"
+}

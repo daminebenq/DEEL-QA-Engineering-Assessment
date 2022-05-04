@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://daminebenq.github.io/DEEL-QA-Engineering-Assessment",
+  "buildOrder" : 2,
+  "buildName" : "GitHub Actions Run #2272732495",
+  "buildUrl" : "https://github.com/daminebenq/DEEL-QA-Engineering-Assessment/actions/runs/2272732495",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://daminebenq.github.io/DEEL-QA-Engineering-Assessment/2/"
+} ]

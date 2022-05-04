@@ -1,0 +1,42 @@
+{
+  "uid" : "f8d6c06c7cccef15",
+  "name" : "create Fixed Rate contract",
+  "fullName" : "create Fixed Rate contract",
+  "historyId" : " tests\\all.test.ts DEEL - Create new contract create Fixed Rate contract",
+  "time" : {
+    "start" : 1651704545393,
+    "stop" : 1651704576765,
+    "duration" : 31372
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "suite",
+    "value" : "tests\\all.test.ts"
+  }, {
+    "name" : "subSuite",
+    "value" : "DEEL - Create new contract"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8d6c06c7cccef15.json",
+  "parameterValues" : [ ]
+}

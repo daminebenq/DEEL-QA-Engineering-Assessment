@@ -1,0 +1,41 @@
+[ {
+  "uid" : "86332ab34402e710",
+  "name" : "create Pay As You Go contract",
+  "time" : {
+    "start" : 1651704907777,
+    "stop" : 1651704907994,
+    "duration" : 217
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d2b4f5195cbf01fb",
+  "name" : "create Fixed Rate contract",
+  "time" : {
+    "start" : 1651704693299,
+    "stop" : 1651704722843,
+    "duration" : 29544
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3eca1ad115272571",
+  "name" : "create Fixed Rate contract",
+  "time" : {
+    "start" : 1651704906949,
+    "stop" : 1651704907267,
+    "duration" : 318
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "1289a124d00e4923",
+  "name" : "create Pay As You Go contract",
+  "time" : {
+    "start" : 1651704693302,
+    "stop" : 1651704723187,
+    "duration" : 29885
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
